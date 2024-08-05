@@ -25,14 +25,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msx-git&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ibragimov05/ibragimov05/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
